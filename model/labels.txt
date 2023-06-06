@@ -1,0 +1,5 @@
+0 rock
+1 ok
+2 peace
+3 thumpsdown
+4 thumpsup
